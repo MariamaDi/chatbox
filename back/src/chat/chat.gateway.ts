@@ -17,7 +17,7 @@ export class ChatGateway implements OnGatewayConnection, OnGatewayDisconnect {
   private openai: OpenAI;
   constructor() {
     this.openai = new OpenAI({
-      apiKey: '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',
+      apiKey: 'ici votre clé',
     });
   }
   @SubscribeMessage('message')
