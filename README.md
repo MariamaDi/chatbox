@@ -16,6 +16,6 @@ npm run start:dev
 Pour afficher la page 
 
 http://localhost:3000/chat  
-Le premier champ de saisi concerne le nom d'utilisateur; Apres l'avoir renseigner n'oublier pas de cliquer sur submit
+Le premier champ de saisi concerne le nom d'utilisateur; Apres l'avoir renseigné n'oublier pas de cliquer sur submit
 
 
